@@ -22,4 +22,4 @@
         array_multisort($reArr, SORT_ASC, $items);
 ```        
         缺陷：无
-        且可以进行相同值得二级字段排序，[详情点击](http://php.net/manual/zh/function.array-multisort.php)
+        且可以进行相同值得二级字段排序，详情:http://php.net/manual/zh/function.array-multisort.php
